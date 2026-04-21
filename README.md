@@ -2,7 +2,7 @@
 
 This repository contains the reference implementation accompanying the paper:
 
-> **Silva, T. C., Yu, X., & Hsieh, M. A. (2024). _Probabilistic Multi-Robot Planning with Temporal Tasks and Communication Constraints_.** Autonomous Robots (AURO), Extended DARS 2024 Submission.
+> **Silva, T. C., Yu, X., & Hsieh, M. A. (2024). Probabilistic multi-robot planning with temporal tasks and communication constraints**. Auton Robot 50, 2 (2026). https://doi.org/10.1007/s10514-025-10231-6
 
 The framework enables **probabilistic, formally grounded planning** for multi-robot teams operating under **stochastic motion**, **Linear Temporal Logic (LTL) task specifications**, and **intermittent communication constraints**. Robots coordinate through scheduled sub-team rendezvous points while computing local policies that provide **probabilistic guarantees** on task satisfaction.
 
