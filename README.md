@@ -95,11 +95,14 @@ Key parameters can be adjusted in `main.py`:
 If you use this code, please cite:
 
 ```bibtex
-@article{silva2024probabilistic,
-  title={Probabilistic Multi-Robot Planning with Temporal Tasks and Communication Constraints},
-  author={Silva, Thales C and Yu, Xi and Hsieh, M. Ani},
-  year={2024},
-  journal={Autonomous Robots (AURO), Extended DARS 2024 Submission}
+@article{Silva2026ProbabilisticMRP,
+  author  = {Silva, Thales C. and Yu, Xi and Hsieh, M. Ani},
+  title   = {Probabilistic multi-robot planning with temporal tasks and communication constraints},
+  journal = {Autonomous Robots},
+  volume  = {50},
+  number  = {2},
+  year    = {2026},
+  doi     = {10.1007/s10514-025-10231-6}
 }
 ```
 
